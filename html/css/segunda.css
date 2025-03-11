@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(0, 26, 255);
+}
+
+
+.container {
+    display: flex;
+
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.imagen {
+    max-width: 100%;
+    width: 275px;
+    height: 275px;
+    margin: 10 5px;
+    border-radius: 15px;
+}
+
+.video {
+    max-width: 100%;
+    width: 275px;
+    height: 275px;
+    margin: 10 5px;
+    border-radius: 15px;
+}
+
+.card {
+
+    text-align: center;
+    box-shadow: rgb(255, 255, 255) 0px 5px 5px;
+    border-radius: 15px;
+    margin: 0 7px;
+}
+
+.card h1 {
+    font-size: 18px;
+    text-transform: uppercase;
+}
